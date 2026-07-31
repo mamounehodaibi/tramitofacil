@@ -1,0 +1,258 @@
+{
+  "nav": {
+    "howItWorks": "How it works",
+    "procedures": "Procedures",
+    "pricing": "Pricing",
+    "start": "Start free",
+    "account": "My account"
+  },
+  "hero": {
+    "eyebrow": "Immigration paperwork in Spain",
+    "title": "Don't lose your appointment over one wrong document",
+    "subtitle": "We check your paperwork before you walk into the office, and alert you in seconds when a slot opens up. In español, English, français and العربية.",
+    "cta": "Check my documents",
+    "ctaSecondary": "See procedures",
+    "stampText": "REVIEWED",
+    "stampSub": "BEFORE YOUR APPOINTMENT"
+  },
+  "problem": {
+    "title": "The system wasn't built for you",
+    "items": [
+      {
+        "title": "Everything in bureaucratic Spanish",
+        "body": "Official forms and notices even native speakers struggle with."
+      },
+      {
+        "title": "Appointments vanish in seconds",
+        "body": "Slots sell out instantly and someone has to sit refreshing the page by hand."
+      },
+      {
+        "title": "One wrong document, back to square one",
+        "body": "A missing sworn translation or seal sends you weeks back."
+      }
+    ]
+  },
+  "how": {
+    "title": "How it works",
+    "steps": [
+      {
+        "n": "01",
+        "title": "Pick your procedure",
+        "body": "NIE, TIE, municipal registration, or self-employment — guided step by step in your language."
+      },
+      {
+        "n": "02",
+        "title": "Upload your documents",
+        "body": "AI checks every file against the official requirements before you go to the office."
+      },
+      {
+        "n": "03",
+        "title": "Turn on appointment alerts",
+        "body": "Get notified the instant a slot opens at the office you choose."
+      },
+      {
+        "n": "04",
+        "title": "Walk in prepared",
+        "body": "Printed checklist, correct documents, appointment booked."
+      }
+    ]
+  },
+  "procedures": {
+    "title": "Available procedures",
+    "nie": {
+      "name": "NIE",
+      "desc": "Foreigner ID number, first application or renewal"
+    },
+    "empadronamiento": {
+      "name": "Municipal registration",
+      "desc": "Padrón registration at your town hall"
+    },
+    "autonomo": {
+      "name": "Self-employment registration",
+      "desc": "Registering as a freelancer / autónomo"
+    },
+    "seguridad": {
+      "name": "Social Security",
+      "desc": "Appointment and affiliation procedures"
+    }
+  },
+  "languages": {
+    "title": "In your language, not the administration's",
+    "body": "Full interface and chat assistant in Spanish, English, French, and Arabic — including a layout built for right-to-left reading."
+  },
+  "pricing": {
+    "title": "Clear pricing",
+    "free": {
+      "name": "Free",
+      "price": "€0",
+      "desc": "Guides and checklists for every procedure",
+      "cta": "Get started"
+    },
+    "paid": {
+      "name": "Protected procedure",
+      "price": "€19",
+      "period": "/procedure",
+      "desc": "AI document review + appointment alerts",
+      "cta": "Protect my procedure"
+    }
+  },
+  "cta": {
+    "title": "Stop losing appointments over paperwork",
+    "body": "Start free with your checklist. Add AI review whenever you're ready.",
+    "button": "Get started"
+  },
+  "disclaimer": "TramitoFácil provides guidance on administrative procedures, not legal advice. For complex cases, consult a licensed gestor or lawyer.",
+  "footer": {
+    "rights": "All rights reserved."
+  },
+  "nieWizard": {
+    "title": "Procedure: NIE",
+    "subtitle": "Foreigner ID Number — first application",
+    "back": "Back",
+    "next": "Next",
+    "prev": "Previous",
+    "finish": "Download checklist",
+    "stepLabel": "Step {current} of {total}",
+    "steps": [
+      {
+        "title": "What is the NIE?",
+        "body": "The Foreigner ID Number is required for almost any official process in Spain: contracts, bank accounts, Social Security, self-employment. Requested at the Immigration Office or a Police station."
+      },
+      {
+        "title": "Documents you'll need",
+        "body": "Valid passport (original and copy), completed EX-15 form, proof of payment of fee 790-012, and justification for the request (contract, bank account opening, etc.)."
+      },
+      {
+        "title": "Most common mistakes",
+        "body": "EX-15 form with details that don't match the passport, fee paid at the wrong bank, or missing original proof of the request's purpose."
+      },
+      {
+        "title": "Booking your appointment (cita previa)",
+        "body": "Appointments are booked directly on the official portal, not through us: icp.administracionelectronica.gob.es/icpplus. Slots are scarce and get released periodically, often early morning — check back regularly. Never pay a third party for an appointment; that portal is the only official channel."
+      }
+    ],
+    "uploadCta": "Upload my documents"
+  },
+  "empadronamientoWizard": {
+    "title": "Procedure: Municipal registration",
+    "subtitle": "Padrón — registering at your town hall",
+    "back": "Back",
+    "next": "Next",
+    "prev": "Previous",
+    "finish": "Download checklist",
+    "stepLabel": "Step {current} of {total}",
+    "steps": [
+      {
+        "title": "What is the padrón?",
+        "body": "The padrón is the municipal register of residents. It's required to access public healthcare, enroll children in school, and as proof of address for many other procedures. Registration is done at your ayuntamiento (town hall)."
+      },
+      {
+        "title": "Documents you'll need",
+        "body": "A valid ID document (passport, NIE/TIE, or DNI) for every person being registered; proof of the address — a property deed or a rental contract in the applicant's name; and the padrón application form (hoja padronal), signed by every adult being registered."
+      },
+      {
+        "title": "Most common mistakes",
+        "body": "A foreign ID document that doesn't show place or date of birth (some town halls then require a consular certificate); a rental contract that isn't in the applicant's name; and missing the owner's or tenant's signed authorization plus a copy of their ID when the applicant isn't on the title."
+      },
+      {
+        "title": "Booking your appointment",
+        "body": "There's no single national booking system for the padrón — each ayuntamiento (town hall) manages its own. Search for your town hall's name plus \"cita previa padrón\" to find its booking page, or ask if walk-ins are accepted."
+      }
+    ],
+    "uploadCta": "Upload my documents"
+  },
+  "autonomoWizard": {
+    "title": "Procedure: Self-employment registration",
+    "subtitle": "Autónomo — registering as self-employed",
+    "back": "Back",
+    "next": "Next",
+    "prev": "Previous",
+    "finish": "Download checklist",
+    "stepLabel": "Step {current} of {total}",
+    "steps": [
+      {
+        "title": "What is it?",
+        "body": "Registering as autónomo lets you legally invoice and work for yourself in Spain. It requires tax registration with the Agencia Tributaria and enrolling in Social Security's self-employed scheme (RETA)."
+      },
+      {
+        "title": "Documents you'll need",
+        "body": "Valid DNI or NIE (non-EU applicants need valid work authorization before registering); Modelo 036 tax registration with the Agencia Tributaria, stating your IAE/CNAE activity code and tax domicile; RETA registration via Import@ss (TA.0521) with the same activity code and start date, your estimated annual income, and a chosen mutua; and a bank account (IBAN) for the monthly quota."
+      },
+      {
+        "title": "Most common mistakes",
+        "body": "Filing the old Modelo 037 — it's been discontinued, everything now goes through Modelo 036; an activity date on the RETA form that doesn't match the 036; underestimating income and ending up on the wrong contribution bracket; forgetting to choose a collaborating mutua; and non-EU nationals trying to register before their work authorization is actually granted."
+      },
+      {
+        "title": "Where and when to file",
+        "body": "Both the 036 and the RETA registration are filed online, through the Agencia Tributaria's Sede Electrónica and Import@ss — no in-person appointment is required for the registration itself. File the RETA form on or before your first day of activity; it can be submitted up to 60 days in advance."
+      }
+    ],
+    "uploadCta": "Upload my documents"
+  },
+  "seguridadWizard": {
+    "title": "Procedure: Social Security",
+    "subtitle": "Getting your Social Security number (NUSS/NAF)",
+    "back": "Back",
+    "next": "Next",
+    "prev": "Previous",
+    "finish": "Download checklist",
+    "stepLabel": "Step {current} of {total}",
+    "steps": [
+      {
+        "title": "What is it?",
+        "body": "Before your first job in Spain, you need a Social Security number (Número de la Seguridad Social, NUSS, also called Número de Afiliación or NAF) to be registered for healthcare and benefits. It's requested at the nearest Social Security office (TGSS/INSS) using the TA.1 form."
+      },
+      {
+        "title": "Documents you'll need",
+        "body": "A valid DNI, NIE, or passport; your contact details — a mobile phone number and email address; and your habitual address. All three are requested directly on the TA.1 form."
+      },
+      {
+        "title": "Most common mistakes",
+        "body": "Requesting a new NUSS when the applicant already has one from a previous stay in Spain, which causes duplicates and delays; incomplete contact details on the TA.1; and an address on the form that doesn't match the one on the ID document."
+      },
+      {
+        "title": "Booking your appointment",
+        "body": "Appointments are booked through the Social Security's official portal, sede.seg-social.gob.es, or by phone at 901 16 65 65. If you have a digital certificate or Cl@ve PIN, some NUSS/NAF requests can be completed online without visiting an office at all."
+      }
+    ],
+    "uploadCta": "Upload my documents"
+  },
+  "upload": {
+    "title": "Upload your documents",
+    "subtitle": "We check them with AI before you go to the office.",
+    "privacyNote": "Your documents are sent directly to the AI for a one-time check and are never stored — they're discarded right after you get your results. Nothing is saved to a server or database.",
+    "dropzone": "Drag your files here or click to choose",
+    "hint": "JPG, PNG — one photo or scan per document",
+    "analyzing": "Analyzing documents…",
+    "demoNotice": "Demo mode: set ANTHROPIC_API_KEY for real review.",
+    "statusAccepted": "Accepted",
+    "statusReview": "Needs review",
+    "statusRejected": "Rejected",
+    "backToGuide": "Back to guide",
+    "submit": "Review documents",
+    "disclaimer": "This is automated guidance, not legal advice.",
+    "errorGeneric": "Something went wrong. Please try again.",
+    "errorRateLimited": "You've made several requests in a short time. Please wait a minute and try again.",
+    "errorNoFiles": "Please add at least one file before submitting.",
+    "errorTooManyFiles": "Please upload at most {max} files at a time.",
+    "errorFileTooLarge": "\"{filename}\" is too large. Each file must be under 10MB.",
+    "errorInvalidFileType": "\"{filename}\" isn't a supported file type. Please upload a JPG, PNG, or WEBP image."
+  },
+  "account": {
+    "title": "My account",
+    "notConfigured": "Sign-in isn't configured in this environment yet.",
+    "signInPrompt": "Sign in to save your document validation history.",
+    "emailLabel": "Email",
+    "sendLink": "Send sign-in link",
+    "sending": "Sending…",
+    "checkYourEmail": "Check your email and click the link to sign in.",
+    "signOut": "Sign out",
+    "history": "Validation history",
+    "noHistory": "You haven't validated any documents yet.",
+    "demoTag": "Demo result",
+    "error": {
+      "missing_email": "Enter an email address.",
+      "send_failed": "Couldn't send the link. Please try again."
+    }
+  }
+}

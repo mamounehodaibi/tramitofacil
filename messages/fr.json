@@ -1,0 +1,258 @@
+{
+  "nav": {
+    "howItWorks": "Comment ça marche",
+    "procedures": "Démarches",
+    "pricing": "Tarifs",
+    "start": "Commencer gratuitement",
+    "account": "Mon compte"
+  },
+  "hero": {
+    "eyebrow": "Démarches d'immigration en Espagne",
+    "title": "Ne perdez pas votre rendez-vous pour un document mal préparé",
+    "subtitle": "Nous vérifions vos documents avant que vous n'alliez au bureau, et vous alertons en quelques secondes dès qu'un créneau se libère. En español, English, français et العربية.",
+    "cta": "Vérifier mes documents",
+    "ctaSecondary": "Voir les démarches",
+    "stampText": "VÉRIFIÉ",
+    "stampSub": "AVANT VOTRE RENDEZ-VOUS"
+  },
+  "problem": {
+    "title": "Le système n'a pas été pensé pour vous",
+    "items": [
+      {
+        "title": "Tout en espagnol administratif",
+        "body": "Des formulaires et avis officiels que même les natifs ont du mal à comprendre."
+      },
+      {
+        "title": "Les créneaux disparaissent en quelques secondes",
+        "body": "Les places partent instantanément, il faut rafraîchir la page à la main."
+      },
+      {
+        "title": "Un document mal préparé, retour à la case départ",
+        "body": "Une traduction non assermentée ou un tampon manquant vous fait perdre des semaines."
+      }
+    ]
+  },
+  "how": {
+    "title": "Comment ça marche",
+    "steps": [
+      {
+        "n": "01",
+        "title": "Choisissez votre démarche",
+        "body": "NIE, TIE, empadronamiento ou inscription autónomo — guidé étape par étape dans votre langue."
+      },
+      {
+        "n": "02",
+        "title": "Téléversez vos documents",
+        "body": "L'IA vérifie chaque fichier selon les exigences officielles avant votre passage au bureau."
+      },
+      {
+        "n": "03",
+        "title": "Activez l'alerte de rendez-vous",
+        "body": "Soyez averti instantanément dès qu'un créneau se libère dans le bureau choisi."
+      },
+      {
+        "n": "04",
+        "title": "Présentez-vous prêt",
+        "body": "Checklist imprimée, documents corrects, rendez-vous réservé."
+      }
+    ]
+  },
+  "procedures": {
+    "title": "Démarches disponibles",
+    "nie": {
+      "name": "NIE",
+      "desc": "Numéro d'identité étranger, première demande ou renouvellement"
+    },
+    "empadronamiento": {
+      "name": "Empadronamiento",
+      "desc": "Inscription au registre municipal"
+    },
+    "autonomo": {
+      "name": "Inscription autónomo",
+      "desc": "Enregistrement en tant que travailleur indépendant"
+    },
+    "seguridad": {
+      "name": "Sécurité sociale",
+      "desc": "Rendez-vous et démarches d'affiliation"
+    }
+  },
+  "languages": {
+    "title": "Dans votre langue, pas celle de l'administration",
+    "body": "Interface complète et assistant de discussion en espagnol, anglais, français et arabe — avec une mise en page adaptée à la lecture de droite à gauche."
+  },
+  "pricing": {
+    "title": "Tarifs clairs",
+    "free": {
+      "name": "Gratuit",
+      "price": "0€",
+      "desc": "Guides et checklists pour chaque démarche",
+      "cta": "Commencer"
+    },
+    "paid": {
+      "name": "Démarche protégée",
+      "price": "19€",
+      "period": "/démarche",
+      "desc": "Vérification IA des documents + alertes de rendez-vous",
+      "cta": "Protéger ma démarche"
+    }
+  },
+  "cta": {
+    "title": "Ne perdez plus de rendez-vous à cause de la paperasse",
+    "body": "Commencez gratuitement avec votre checklist. Ajoutez la vérification IA quand vous le souhaitez.",
+    "button": "Commencer maintenant"
+  },
+  "disclaimer": "TramitoFácil fournit une orientation sur les démarches administratives, pas un conseil juridique. Pour les cas complexes, consultez un gestor ou un avocat agréé.",
+  "footer": {
+    "rights": "Tous droits réservés."
+  },
+  "nieWizard": {
+    "title": "Démarche : NIE",
+    "subtitle": "Numéro d'identité étranger — première demande",
+    "back": "Retour",
+    "next": "Suivant",
+    "prev": "Précédent",
+    "finish": "Télécharger la checklist",
+    "stepLabel": "Étape {current} sur {total}",
+    "steps": [
+      {
+        "title": "Qu'est-ce que le NIE ?",
+        "body": "Le numéro d'identité étranger est obligatoire pour presque toute démarche officielle en Espagne : contrats, banque, sécurité sociale, autónomo. Demandé au bureau des étrangers ou au commissariat."
+      },
+      {
+        "title": "Documents nécessaires",
+        "body": "Passeport valide (original et copie), formulaire EX-15 complété, justificatif de paiement de la taxe 790-012, et motif de la demande (contrat, ouverture de compte, etc.)."
+      },
+      {
+        "title": "Erreurs les plus courantes",
+        "body": "Formulaire EX-15 avec des données ne correspondant pas au passeport, taxe payée à la mauvaise banque, ou justificatif original manquant."
+      },
+      {
+        "title": "Réservez votre rendez-vous (cita previa)",
+        "body": "Les rendez-vous se réservent directement sur le portail officiel, pas via nous : icp.administracionelectronica.gob.es/icpplus. Les créneaux sont rares et libérés périodiquement, souvent tôt le matin — revenez vérifier régulièrement. Ne payez jamais un tiers pour un rendez-vous ; ce portail est le seul canal officiel."
+      }
+    ],
+    "uploadCta": "Téléverser mes documents"
+  },
+  "empadronamientoWizard": {
+    "title": "Démarche : Inscription municipale (padrón)",
+    "subtitle": "Padrón — inscription à votre mairie",
+    "back": "Retour",
+    "next": "Suivant",
+    "prev": "Précédent",
+    "finish": "Télécharger la checklist",
+    "stepLabel": "Étape {current} sur {total}",
+    "steps": [
+      {
+        "title": "Qu'est-ce que le padrón ?",
+        "body": "Le padrón est le registre municipal des habitants. Il est nécessaire pour accéder à la santé publique, inscrire les enfants à l'école, et comme justificatif de domicile pour de nombreuses autres démarches. L'inscription se fait à votre mairie (ayuntamiento)."
+      },
+      {
+        "title": "Documents nécessaires",
+        "body": "Document d'identité valide (passeport, NIE/TIE ou DNI) pour chaque personne inscrite ; justificatif du logement — acte de propriété ou contrat de location au nom du demandeur ; et le formulaire d'inscription au padrón (hoja padronal), signé par chaque adulte inscrit."
+      },
+      {
+        "title": "Erreurs les plus courantes",
+        "body": "Document étranger ne mentionnant pas le lieu ou la date de naissance (certaines mairies exigent alors un certificat consulaire) ; contrat de location qui n'est pas au nom du demandeur ; et absence de l'autorisation signée du propriétaire ou du locataire titulaire, avec copie de sa pièce d'identité, lorsque le demandeur ne figure pas sur le titre."
+      },
+      {
+        "title": "Réservez votre rendez-vous",
+        "body": "Il n'existe pas de système de réservation national unique pour le padrón — chaque mairie gère le sien. Recherchez le nom de votre mairie suivi de \"cita previa padrón\" pour trouver sa page de réservation, ou demandez si elle accepte les visites sans rendez-vous."
+      }
+    ],
+    "uploadCta": "Téléverser mes documents"
+  },
+  "autonomoWizard": {
+    "title": "Démarche : Inscription en tant qu'autónomo",
+    "subtitle": "Autónomo — s'inscrire comme travailleur indépendant",
+    "back": "Retour",
+    "next": "Suivant",
+    "prev": "Précédent",
+    "finish": "Télécharger la checklist",
+    "stepLabel": "Étape {current} sur {total}",
+    "steps": [
+      {
+        "title": "De quoi s'agit-il ?",
+        "body": "S'inscrire comme autónomo vous permet de facturer et de travailler légalement à votre compte en Espagne. Cela nécessite une inscription fiscale auprès de l'Agencia Tributaria et une affiliation au régime des travailleurs indépendants de la Sécurité sociale (RETA)."
+      },
+      {
+        "title": "Documents nécessaires",
+        "body": "DNI ou NIE valide (les ressortissants hors UE doivent disposer d'une autorisation de travail valide avant de s'inscrire) ; formulaire Modelo 036 auprès de l'Agencia Tributaria, indiquant le code d'activité IAE/CNAE et le domicile fiscal ; inscription au RETA via Import@ss (TA.0521) avec le même code d'activité et la même date de début, le revenu annuel estimé, et la mutuelle collaboratrice choisie ; et un compte bancaire (IBAN) pour le prélèvement de la cotisation mensuelle."
+      },
+      {
+        "title": "Erreurs les plus courantes",
+        "body": "Déposer l'ancien Modelo 037 — il a été supprimé, tout passe désormais par le Modelo 036 ; une date d'activité sur le RETA qui ne correspond pas à celle du 036 ; sous-estimer ses revenus et se retrouver dans la mauvaise tranche de cotisation ; oublier de choisir une mutuelle collaboratrice ; et des ressortissants hors UE qui tentent de s'inscrire avant l'obtention effective de leur autorisation de travail."
+      },
+      {
+        "title": "Où et quand déposer sa demande",
+        "body": "Le 036 et l'inscription au RETA se font en ligne, via la Sede Electrónica de l'Agencia Tributaria et Import@ss — aucun rendez-vous en personne n'est requis pour l'inscription elle-même. Déposez le RETA au plus tard le premier jour de votre activité ; il peut être soumis jusqu'à 60 jours à l'avance."
+      }
+    ],
+    "uploadCta": "Téléverser mes documents"
+  },
+  "seguridadWizard": {
+    "title": "Démarche : Sécurité sociale",
+    "subtitle": "Obtenir votre numéro de sécurité sociale (NUSS/NAF)",
+    "back": "Retour",
+    "next": "Suivant",
+    "prev": "Précédent",
+    "finish": "Télécharger la checklist",
+    "stepLabel": "Étape {current} sur {total}",
+    "steps": [
+      {
+        "title": "De quoi s'agit-il ?",
+        "body": "Avant votre premier emploi en Espagne, vous avez besoin d'un numéro de sécurité sociale (NUSS), aussi appelé Número de Afiliación (NAF), pour être enregistré auprès du système de santé et des prestations. Il se demande auprès du bureau de la Sécurité sociale (TGSS/INSS) le plus proche, via le formulaire TA.1."
+      },
+      {
+        "title": "Documents nécessaires",
+        "body": "DNI, NIE ou passeport valide ; vos coordonnées — numéro de mobile et adresse e-mail ; et votre adresse habituelle. Les trois sont demandés directement sur le formulaire TA.1."
+      },
+      {
+        "title": "Erreurs les plus courantes",
+        "body": "Demander un nouveau NUSS alors que le demandeur en possède déjà un d'un séjour précédent en Espagne, ce qui entraîne des doublons et des retards ; coordonnées incomplètes sur le TA.1 ; et une adresse sur le formulaire qui ne correspond pas à celle de la pièce d'identité."
+      },
+      {
+        "title": "Réservez votre rendez-vous",
+        "body": "Les rendez-vous se prennent sur le portail officiel de la Sécurité sociale, sede.seg-social.gob.es, ou par téléphone au 901 16 65 65. Avec un certificat numérique ou un code Cl@ve, certaines demandes de NUSS/NAF peuvent être finalisées en ligne sans passage en agence."
+      }
+    ],
+    "uploadCta": "Téléverser mes documents"
+  },
+  "upload": {
+    "title": "Téléversez vos documents",
+    "subtitle": "Nous les vérifions par IA avant votre passage au bureau.",
+    "privacyNote": "Vos documents sont envoyés directement à l'IA pour une vérification ponctuelle et ne sont jamais stockés : ils sont supprimés dès que le résultat s'affiche. Rien n'est conservé sur un serveur ou une base de données.",
+    "dropzone": "Glissez vos fichiers ici ou cliquez pour choisir",
+    "hint": "JPG, PNG — une photo ou un scan par document",
+    "analyzing": "Analyse des documents…",
+    "demoNotice": "Mode démo : configurez ANTHROPIC_API_KEY pour une vraie vérification.",
+    "statusAccepted": "Accepté",
+    "statusReview": "À vérifier",
+    "statusRejected": "Rejeté",
+    "backToGuide": "Retour au guide",
+    "submit": "Vérifier les documents",
+    "disclaimer": "Ceci est une orientation automatisée, pas un conseil juridique.",
+    "errorGeneric": "Une erreur s'est produite. Veuillez réessayer.",
+    "errorRateLimited": "Vous avez effectué plusieurs demandes en peu de temps. Patientez une minute puis réessayez.",
+    "errorNoFiles": "Ajoutez au moins un fichier avant d'envoyer.",
+    "errorTooManyFiles": "Téléversez au maximum {max} fichiers à la fois.",
+    "errorFileTooLarge": "« {filename} » est trop volumineux. Chaque fichier doit faire moins de 10 Mo.",
+    "errorInvalidFileType": "« {filename} » n'est pas un type de fichier pris en charge. Téléversez une image JPG, PNG ou WEBP."
+  },
+  "account": {
+    "title": "Mon compte",
+    "notConfigured": "La connexion n'est pas encore configurée dans cet environnement.",
+    "signInPrompt": "Connectez-vous pour enregistrer l'historique de vos validations de documents.",
+    "emailLabel": "E-mail",
+    "sendLink": "Envoyer le lien de connexion",
+    "sending": "Envoi…",
+    "checkYourEmail": "Consultez votre e-mail et cliquez sur le lien pour vous connecter.",
+    "signOut": "Se déconnecter",
+    "history": "Historique des validations",
+    "noHistory": "Vous n'avez encore validé aucun document.",
+    "demoTag": "Résultat de démonstration",
+    "error": {
+      "missing_email": "Entrez une adresse e-mail.",
+      "send_failed": "Impossible d'envoyer le lien. Réessayez."
+    }
+  }
+}

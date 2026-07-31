@@ -1,0 +1,258 @@
+{
+  "nav": {
+    "howItWorks": "Cómo funciona",
+    "procedures": "Trámites",
+    "pricing": "Precios",
+    "start": "Empezar gratis",
+    "account": "Mi cuenta"
+  },
+  "hero": {
+    "eyebrow": "Trámites de extranjería en España",
+    "title": "Que no te rechacen la cita por un papel mal puesto",
+    "subtitle": "Revisamos tu documentación antes de que pises la oficina y te avisamos en segundos cuando se libera una cita. En español, English, français y العربية.",
+    "cta": "Revisar mi documentación",
+    "ctaSecondary": "Ver los trámites",
+    "stampText": "REVISADO",
+    "stampSub": "ANTES DE LA CITA"
+  },
+  "problem": {
+    "title": "El sistema no está pensado para ti",
+    "items": [
+      {
+        "title": "Todo en español administrativo",
+        "body": "Formularios y avisos oficiales que ni un nativo entiende a la primera."
+      },
+      {
+        "title": "Citas que desaparecen en segundos",
+        "body": "Las plazas se agotan al instante y hay que estar refrescando la página a mano."
+      },
+      {
+        "title": "Un papel mal puesto, vuelta a empezar",
+        "body": "Una traducción sin jurar o un sello que falta te devuelve semanas atrás."
+      }
+    ]
+  },
+  "how": {
+    "title": "Cómo funciona",
+    "steps": [
+      {
+        "n": "01",
+        "title": "Elige tu trámite",
+        "body": "NIE, TIE, empadronamiento o alta de autónomo — te guiamos paso a paso en tu idioma."
+      },
+      {
+        "n": "02",
+        "title": "Sube tus documentos",
+        "body": "La IA revisa cada archivo contra los requisitos oficiales antes de que vayas a la oficina."
+      },
+      {
+        "n": "03",
+        "title": "Activa la alerta de cita",
+        "body": "Te avisamos al instante en cuanto se libera una plaza en la oficina que elijas."
+      },
+      {
+        "n": "04",
+        "title": "Ve tranquilo",
+        "body": "Checklist impreso, documentos correctos, cita reservada."
+      }
+    ]
+  },
+  "procedures": {
+    "title": "Trámites disponibles",
+    "nie": {
+      "name": "NIE",
+      "desc": "Número de Identidad de Extranjero, primera vez o renovación"
+    },
+    "empadronamiento": {
+      "name": "Empadronamiento",
+      "desc": "Registro en el padrón municipal"
+    },
+    "autonomo": {
+      "name": "Alta de autónomo",
+      "desc": "Registro como trabajador por cuenta propia"
+    },
+    "seguridad": {
+      "name": "Seguridad Social",
+      "desc": "Cita previa y trámites de afiliación"
+    }
+  },
+  "languages": {
+    "title": "En tu idioma, no en el de la administración",
+    "body": "Interfaz completa y asistente de chat en español, inglés, francés y árabe — incluyendo diseño adaptado para lectura de derecha a izquierda."
+  },
+  "pricing": {
+    "title": "Precios claros",
+    "free": {
+      "name": "Gratis",
+      "price": "0€",
+      "desc": "Guías y checklists de todos los trámites",
+      "cta": "Empezar"
+    },
+    "paid": {
+      "name": "Trámite protegido",
+      "price": "19€",
+      "period": "/trámite",
+      "desc": "Revisión de documentos con IA + alerta de cita previa",
+      "cta": "Proteger mi trámite"
+    }
+  },
+  "cta": {
+    "title": "Deja de perder citas por papeles",
+    "body": "Empieza gratis con tu checklist. Añade la revisión con IA cuando quieras.",
+    "button": "Empezar ahora"
+  },
+  "disclaimer": "TramitoFácil ofrece orientación sobre procedimientos administrativos, no asesoría legal. Para casos complejos, consulta con un gestor o abogado colegiado.",
+  "footer": {
+    "rights": "Todos los derechos reservados."
+  },
+  "nieWizard": {
+    "title": "Trámite: NIE",
+    "subtitle": "Número de Identidad de Extranjero — primera solicitud",
+    "back": "Volver",
+    "next": "Siguiente",
+    "prev": "Anterior",
+    "finish": "Descargar checklist",
+    "stepLabel": "Paso {current} de {total}",
+    "steps": [
+      {
+        "title": "¿Qué es el NIE?",
+        "body": "El Número de Identidad de Extranjero es obligatorio para cualquier trámite oficial en España: contratos, banco, Seguridad Social, autónomos. Se solicita en la Oficina de Extranjeros o en Comisaría de Policía."
+      },
+      {
+        "title": "Documentos necesarios",
+        "body": "Pasaporte en vigor (original y copia), formulario EX-15 cumplimentado, justificante de pago de la tasa 790-012, y el motivo de la solicitud (contrato, apertura de cuenta, etc.)."
+      },
+      {
+        "title": "Errores más comunes",
+        "body": "Formulario EX-15 con datos que no coinciden con el pasaporte, tasa pagada en el banco equivocado, o falta de justificante original del motivo de la solicitud."
+      },
+      {
+        "title": "Reserva tu cita previa",
+        "body": "Las citas se piden directamente en el portal oficial, no a través de nosotros: icp.administracionelectronica.gob.es/icpplus. Las plazas escasean y se liberan periódicamente, muchas veces a primera hora de la mañana — vuelve a comprobarlo con frecuencia. No pagues nunca a terceros por una cita; ese portal es el único canal oficial."
+      }
+    ],
+    "uploadCta": "Subir mis documentos"
+  },
+  "empadronamientoWizard": {
+    "title": "Trámite: Empadronamiento",
+    "subtitle": "Padrón — inscripción en tu ayuntamiento",
+    "back": "Volver",
+    "next": "Siguiente",
+    "prev": "Anterior",
+    "finish": "Descargar checklist",
+    "stepLabel": "Paso {current} de {total}",
+    "steps": [
+      {
+        "title": "¿Qué es el padrón?",
+        "body": "El padrón es el registro municipal de vecinos. Es necesario para acceder a la sanidad pública, matricular a los hijos en el colegio, y como justificante de domicilio para muchos otros trámites. Se tramita en tu ayuntamiento."
+      },
+      {
+        "title": "Documentos necesarios",
+        "body": "Documento de identidad en vigor (pasaporte, NIE/TIE o DNI) de cada persona que se empadrona; justificante de la vivienda — escritura de propiedad o contrato de alquiler a nombre del solicitante; y la hoja padronal, firmada por cada adulto que se empadrona."
+      },
+      {
+        "title": "Errores más comunes",
+        "body": "Documento extranjero que no indica el lugar o la fecha de nacimiento (algunos ayuntamientos exigen entonces un certificado consular); contrato de alquiler que no está a nombre del solicitante; y falta de la autorización firmada del propietario o titular del contrato junto con la copia de su documento, cuando el solicitante no figura en el título."
+      },
+      {
+        "title": "Reserva tu cita",
+        "body": "No existe un sistema único de citas para el padrón — cada ayuntamiento gestiona el suyo propio. Busca el nombre de tu ayuntamiento junto con \"cita previa padrón\" para encontrar su página, o pregunta si atienden sin cita."
+      }
+    ],
+    "uploadCta": "Subir mis documentos"
+  },
+  "autonomoWizard": {
+    "title": "Trámite: Alta de autónomo",
+    "subtitle": "Autónomo — darte de alta como trabajador por cuenta propia",
+    "back": "Volver",
+    "next": "Siguiente",
+    "prev": "Anterior",
+    "finish": "Descargar checklist",
+    "stepLabel": "Paso {current} de {total}",
+    "steps": [
+      {
+        "title": "¿Qué es?",
+        "body": "Darte de alta como autónomo te permite facturar y trabajar por cuenta propia legalmente en España. Requiere el alta fiscal en la Agencia Tributaria y el alta en el régimen especial de trabajadores autónomos de la Seguridad Social (RETA)."
+      },
+      {
+        "title": "Documentos necesarios",
+        "body": "DNI o NIE en vigor (los solicitantes no comunitarios necesitan autorización de trabajo válida antes de darse de alta); Modelo 036 de alta censal en la Agencia Tributaria, indicando el código de actividad IAE/CNAE y el domicilio fiscal; alta en el RETA a través de Import@ss (TA.0521) con el mismo código de actividad y fecha de inicio, la renta anual estimada, y la mutua colaboradora elegida; y una cuenta bancaria (IBAN) para la cuota mensual."
+      },
+      {
+        "title": "Errores más comunes",
+        "body": "Presentar el antiguo modelo 037 — ha quedado descontinuado, todo se tramita ahora con el modelo 036; una fecha de actividad en el RETA que no coincide con la del 036; subestimar los ingresos y quedar en el tramo de cotización equivocado; olvidar elegir mutua colaboradora; y solicitantes no comunitarios que intentan darse de alta antes de tener concedida su autorización de trabajo."
+      },
+      {
+        "title": "Dónde y cuándo presentarlo",
+        "body": "Tanto el 036 como el alta en el RETA se tramitan online, a través de la Sede Electrónica de la Agencia Tributaria e Import@ss — no hace falta cita presencial para el alta en sí. Presenta el RETA en o antes de tu primer día de actividad; se puede presentar hasta 60 días antes."
+      }
+    ],
+    "uploadCta": "Subir mis documentos"
+  },
+  "seguridadWizard": {
+    "title": "Trámite: Seguridad Social",
+    "subtitle": "Obtener tu número de la Seguridad Social (NUSS/NAF)",
+    "back": "Volver",
+    "next": "Siguiente",
+    "prev": "Anterior",
+    "finish": "Descargar checklist",
+    "stepLabel": "Paso {current} de {total}",
+    "steps": [
+      {
+        "title": "¿Qué es?",
+        "body": "Antes de tu primer empleo en España, necesitas un número de la Seguridad Social (NUSS), también llamado Número de Afiliación (NAF), para quedar registrado en el sistema sanitario y de prestaciones. Se solicita en la oficina de la Seguridad Social (TGSS/INSS) más cercana mediante el formulario TA.1."
+      },
+      {
+        "title": "Documentos necesarios",
+        "body": "DNI, NIE o pasaporte en vigor; tus datos de contacto — número de móvil y correo electrónico; y tu domicilio habitual. Los tres se piden directamente en el formulario TA.1."
+      },
+      {
+        "title": "Errores más comunes",
+        "body": "Solicitar un nuevo NUSS cuando el solicitante ya tiene uno de una estancia anterior en España, lo que provoca duplicados y retrasos; datos de contacto incompletos en el TA.1; y un domicilio en el formulario que no coincide con el del documento de identidad."
+      },
+      {
+        "title": "Reserva tu cita",
+        "body": "Las citas se piden en el portal oficial de la Seguridad Social, sede.seg-social.gob.es, o por teléfono en el 901 16 65 65. Si tienes certificado digital o Cl@ve PIN, algunas solicitudes de NUSS/NAF pueden completarse online sin acudir a una oficina."
+      }
+    ],
+    "uploadCta": "Subir mis documentos"
+  },
+  "upload": {
+    "title": "Sube tus documentos",
+    "subtitle": "Los revisamos con IA antes de que vayas a la oficina.",
+    "privacyNote": "Tus documentos se envían directamente a la IA para una revisión puntual y nunca se almacenan: se descartan justo después de mostrarte el resultado. No se guarda nada en ningún servidor ni base de datos.",
+    "dropzone": "Arrastra tus archivos aquí o haz clic para elegir",
+    "hint": "JPG, PNG — una foto o escaneo por documento",
+    "analyzing": "Analizando documentos…",
+    "demoNotice": "Modo demo: configura ANTHROPIC_API_KEY para una revisión real.",
+    "statusAccepted": "Aceptado",
+    "statusReview": "Revisar",
+    "statusRejected": "Rechazado",
+    "backToGuide": "Volver a la guía",
+    "submit": "Revisar documentos",
+    "disclaimer": "Esto es orientación automatizada, no asesoría legal.",
+    "errorGeneric": "Algo ha fallado. Inténtalo de nuevo.",
+    "errorRateLimited": "Has hecho varias solicitudes en poco tiempo. Espera un minuto e inténtalo de nuevo.",
+    "errorNoFiles": "Añade al menos un archivo antes de enviarlo.",
+    "errorTooManyFiles": "Sube como máximo {max} archivos a la vez.",
+    "errorFileTooLarge": "\"{filename}\" es demasiado grande. Cada archivo debe pesar menos de 10MB.",
+    "errorInvalidFileType": "\"{filename}\" no es un tipo de archivo compatible. Sube una imagen JPG, PNG o WEBP."
+  },
+  "account": {
+    "title": "Mi cuenta",
+    "notConfigured": "El inicio de sesión aún no está configurado en este entorno.",
+    "signInPrompt": "Inicia sesión para guardar el historial de tus validaciones de documentos.",
+    "emailLabel": "Correo electrónico",
+    "sendLink": "Enviar enlace de acceso",
+    "sending": "Enviando…",
+    "checkYourEmail": "Revisa tu correo y haz clic en el enlace para entrar.",
+    "signOut": "Cerrar sesión",
+    "history": "Historial de validaciones",
+    "noHistory": "Todavía no has validado ningún documento.",
+    "demoTag": "Resultado de demostración",
+    "error": {
+      "missing_email": "Introduce un correo electrónico.",
+      "send_failed": "No se pudo enviar el enlace. Inténtalo de nuevo."
+    }
+  }
+}

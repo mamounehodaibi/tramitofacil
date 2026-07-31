@@ -1,0 +1,94 @@
+@import "tailwindcss";
+
+:root {
+  /* Apple-inspired palette, mapped onto the site's existing tokens */
+  --paper: #ffffff;           /* primary background */
+  --paper-raised: #fafafc;    /* alternating section / surface light */
+  --ink: #1d1d1f;             /* primary heading & text */
+  --ink-soft: #6e6e73;        /* tertiary text: captions, helper text, descriptions */
+  --stamp: #0071e3;           /* primary action blue (CTAs, links, accents) */
+  --stamp-soft: #0077ed;      /* interactive blue: highlight / focus feedback */
+  --gold: #0076df;            /* pressed/active-state blue */
+  --line: #ededf2;            /* dividers & borders */
+
+  --success: #15be53;
+  --warning: #ffbb00;
+}
+
+@theme inline {
+  --color-paper: var(--paper);
+  --color-paper-raised: var(--paper-raised);
+  --color-ink: var(--ink);
+  --color-ink-soft: var(--ink-soft);
+  --color-stamp: var(--stamp);
+  --color-stamp-soft: var(--stamp-soft);
+  --color-gold: var(--gold);
+  --color-line: var(--line);
+  --color-success: var(--success);
+  --color-warning: var(--warning);
+  --font-display: var(--font-display);
+  --font-body: var(--font-body);
+  --font-utility: var(--font-utility);
+  --font-display-ar: var(--font-display-ar);
+  --font-body-ar: var(--font-body-ar);
+}
+
+body {
+  background: var(--paper);
+  color: var(--ink);
+  font-family: var(--font-body), sans-serif;
+}
+
+html[dir="rtl"] body {
+  font-family: var(--font-body-ar), sans-serif;
+}
+
+html[dir="rtl"] .font-display {
+  font-family: var(--font-display-ar), sans-serif;
+}
+
+.hairline {
+  border-color: var(--line);
+}
+
+/* Seal motif: recolored to the primary action blue */
+.stamp {
+  border: 2.5px solid var(--stamp);
+  color: var(--stamp);
+  border-radius: 9999px;
+  transform: rotate(-9deg);
+  opacity: 0.9;
+}
+
+html[dir="rtl"] .stamp {
+  transform: rotate(9deg);
+}
+
+/* Apple's flat elevation scale - shadows only for raised/floating states, never default */
+.shadow-apple-raised {
+  box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.08);
+}
+
+.shadow-apple-floating {
+  box-shadow: 0px 4px 16px rgba(0, 0, 0, 0.12);
+}
+
+.shadow-apple-overlay {
+  box-shadow: 0px 8px 32px rgba(0, 0, 0, 0.16);
+}
+
+/* Apple-style keyboard focus ring: crisp outline, not a glow */
+a:focus-visible,
+button:focus-visible,
+input:focus-visible {
+  outline: 2px solid var(--stamp);
+  outline-offset: 3px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
